@@ -55,8 +55,8 @@ MEDICAL-CHATBOT/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/uniic7777/MEDICAL-CHATBOT.git
-cd MEDICAL-CHATBOT
+git https://github.com/rajat-00777/MEDICAL-ASSISTANT.git
+cd MEDICAL-ASSISTANT
 ```
 
 ### Create a virtual environment with python version 3.10.10
