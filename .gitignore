@@ -1,0 +1,75 @@
+# ===========================
+# Python
+# ===========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Environment Variables
+.env
+.env.*
+
+# ===========================
+# Build / Distribution
+# ===========================
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# ===========================
+# Python Cache & Testing
+# ===========================
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# ===========================
+# Jupyter
+# ===========================
+.ipynb_checkpoints/
+
+# ===========================
+# IDEs
+# ===========================
+.vscode/
+.idea/
+
+# ===========================
+# Operating System Files
+# ===========================
+.DS_Store
+Thumbs.db
+
+# ===========================
+# Logs
+# ===========================
+*.log
+
+# ===========================
+# SQLite Database
+# ===========================
+*.sqlite3
+*.db
+
+# ===========================
+# Temporary Files
+# ===========================
+*.tmp
+*.temp
+
+# ===========================
+# PyInstaller
+# ===========================
+*.spec
